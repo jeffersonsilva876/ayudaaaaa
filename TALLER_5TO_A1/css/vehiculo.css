@@ -1,0 +1,44 @@
+body{
+    background-color: azure;
+}
+   
+.venta1{
+width: 20%;
+}
+.title{
+    text-align:center;
+}
+.seccion1{
+   bottom: 200px;
+   cursor: pointer;
+}
+.venta2{
+width: 30%;
+}
+.seccion2{
+   bottom: 200px;
+   cursor: pointer;
+   margin-left: 300px;
+   position: relative;
+   bottom:275px;
+}
+.venta3{
+width: 40%;
+}
+.seccion3{
+   bottom: 200px;
+   cursor: pointer;
+   margin-left: 580px;
+   position: relative;
+   bottom:560px;
+}
+
+.venta4{
+width: 20%;
+}
+.seccion4{
+   bottom: 200px;
+   cursor: pointer;
+   position: relative;
+   bottom:560px;
+}

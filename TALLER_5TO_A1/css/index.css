@@ -1,0 +1,44 @@
+body{
+    background: url(../imageness/negro.jpg);
+    background-size: 100%;
+}
+.container{
+    position: absolute;
+    font-size: 20px;
+    margin-top:100px;
+    color: white;
+   
+}
+
+.menu{
+   position: fixed;
+    left: 600px;
+   text-decoration: none;
+   
+}
+.garantia{
+    margin:100px;
+    color: white;
+    text-decoration: none;
+}
+.vehiculo{
+    color: white;
+    text-decoration: none;
+}
+.repuesto{
+    color: white;
+    text-decoration: none;
+}
+.logo{
+    width: 10%;
+    left: 60px;
+    margin: -10px;
+    border-radius: 50px;
+}
+.btn{
+    border-radius: 50px;
+    font-size: 22px;
+    cursor:pointer;
+    text-align: center;
+  
+}

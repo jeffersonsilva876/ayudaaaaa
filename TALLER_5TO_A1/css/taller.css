@@ -1,0 +1,22 @@
+body{
+    background:url(../imageness/negro.jpg);
+    background-repeat:no-repeat;
+    background-size:150%;
+}
+.div1{
+    margin: 10px;
+    position: relative;
+    margin-top: 40px;
+    color: white;
+}
+.div2{
+    position: relative;
+    margin-left: 600px;
+    color: white;
+}
+.div3{
+    position: relative;
+    margin-right: 400px;
+    margin: 10px;
+    color: white;
+}
